@@ -682,7 +682,6 @@ ul.row {
 .card-work .card-inner {
     position: absolute;
     top: -0.1rem;
-    bottom: -0.1rem;
     left: -0.1rem;
     right: -0.1rem;
     z-index: 1;
@@ -703,7 +702,7 @@ ul.row {
 .card-work .card-title a {
     display: block;
     text-decoration: none;
-    padding-top: 45% 0 0;
+    padding-top: 45%;
 }
 
 .card-work .card-title a::after {
