@@ -1,0 +1,19 @@
+23. Fix issues for dark theme
+Based on styles/22-style.css:
+
+Style the footer-address class
+
+Set the color of the text to the text-color property
+Style the social-link class:
+
+Style it so that it renders as a block element
+Style the social-link class that also selects the svg children
+
+Fill in the color of the svg children with the text-color variable
+Does not have to pass w3c
+
+Repo:
+
+GitHub repository: holbertonschool-web_front_end
+Directory: CSS_advanced
+File: styles/23-style.css
